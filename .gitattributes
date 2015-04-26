@@ -1,4 +1,4 @@
-*.md text
+*.md text eol=crlf
 *.c text
 *.h text
 *.cc text
