@@ -1,0 +1,9 @@
+Changelog V0.2 :
+
+- Parameter werden direkt beim Start geladen, nicht erst beim ersten Moduswechsel
+- Vertikale und Horizontale Scrollbar hinzugefügt
+- Übersichtlicher in Reitern gestaltet
+- Versionscheck der Konfiguration beim Laden
+- Poti Mode
+- Schalter Mode
+- Ohne RC Mode (Wechsel nach Zeit, aber immer an)

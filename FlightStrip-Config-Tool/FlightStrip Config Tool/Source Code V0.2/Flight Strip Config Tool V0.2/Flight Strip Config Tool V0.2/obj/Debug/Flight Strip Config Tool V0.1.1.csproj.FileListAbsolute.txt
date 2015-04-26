@@ -1,0 +1,6 @@
+D:\Eigene Dateien\Visual Studio Projekte\FlightStrip\Flight Strip Config Tool V0.1.1\Flight Strip Config Tool V0.1.1\bin\Debug\Flight Strip Config Tool WPF V0.1.exe.config
+D:\Eigene Dateien\Visual Studio Projekte\FlightStrip\Flight Strip Config Tool V0.1.1\Flight Strip Config Tool V0.1.1\obj\Debug\Flight Strip Config Tool WPF V0.1.exe
+D:\Eigene Dateien\Visual Studio Projekte\FlightStrip\Flight Strip Config Tool V0.1.1\Flight Strip Config Tool V0.1.1\obj\Debug\Flight Strip Config Tool WPF V0.1.pdb
+D:\Eigene Dateien\Visual Studio Projekte\FlightStrip\Flight Strip Config Tool V0.2\Flight Strip Config Tool V0.1.1\bin\Debug\Flight Strip Config Tool WPF V0.1.exe.config
+D:\Eigene Dateien\Visual Studio Projekte\FlightStrip\Flight Strip Config Tool V0.2\Flight Strip Config Tool V0.1.1\obj\Debug\Flight Strip Config Tool WPF V0.1.exe
+D:\Eigene Dateien\Visual Studio Projekte\FlightStrip\Flight Strip Config Tool V0.2\Flight Strip Config Tool V0.1.1\obj\Debug\Flight Strip Config Tool WPF V0.1.pdb
