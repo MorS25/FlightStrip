@@ -1,10 +1,4 @@
 # FlightStrip
-FlightStrip Arduino Library and FlightStrip Config Tool for Windows
+FlightStrip Arduino Library und FlightStrip Config Tool für Windows
 
-
-Under construction ;)
-
-BlaBliBlubasjdbassausdasgdas  
-asjfbashdasj  
-asdnhajsd  
-  asjdnkas  
+Hier wird irgendwann einmal erklärt werden wie das ganze funktioniert :P  
