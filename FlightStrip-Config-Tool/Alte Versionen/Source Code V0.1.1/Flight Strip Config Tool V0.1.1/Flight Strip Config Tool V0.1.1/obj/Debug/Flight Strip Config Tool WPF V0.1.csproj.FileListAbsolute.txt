@@ -1,0 +1,45 @@
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\Flight Strip Config Tool WPF V0.1.exe.config
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\Flight Strip Config Tool WPF V0.1.exe
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\Flight Strip Config Tool WPF V0.1.pdb
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\MainWindow.baml
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\MainWindow.g.cs
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\App.g.cs
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\Flight Strip Config Tool WPF V0.1_MarkupCompile.cache
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\Flight Strip Config Tool WPF V0.1.g.resources
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\Flight_Strip_Config_Tool_WPF_V0._1.Properties.Resources.resources
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\Flight Strip Config Tool WPF V0.1.csproj.GenerateResource.Cache
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\Flight Strip Config Tool WPF V0.1.exe
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\Flight Strip Config Tool WPF V0.1.pdb
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\OneColorOnly.baml
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\OneColorOnly.g.cs
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\ThreeColorPlusTime.baml
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\ThreeColorPlusTime.g.cs
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\Flight Strip Config Tool WPF V0.1.csprojResolveAssemblyReference.cache
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\OneColorPlusTime.baml
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\OneColorPlusTime.g.cs
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\ColorTwoTimes.baml
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\TwoColorPlusTime.baml
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\ColorTwoTimes.g.cs
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\TwoColorPlusTime.g.cs
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\Knightrider.baml
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\Knightrider.g.cs
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\TimeOnly.baml
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\TimeOnly.g.cs
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\Blockswitch.baml
+D:\Eigene Dateien\Visual Studio Projekte\Flight Strip Config Tool WPF V0.1\Flight Strip Config Tool WPF V0.1\obj\Debug\Blockswitch.g.cs
